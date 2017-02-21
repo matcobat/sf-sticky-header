@@ -1,0 +1,23 @@
+{
+  "name": "sticky-header",
+  "version": "0.1.0",
+  "description": "An angularjs directive for making headers that don't scroll past the top of the screen",
+  "main": "src/sf-sticky-header.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matcobat/sf-sticky-header.git"
+  },
+  "dependencies": {
+    "angular": "1.6.*",
+    "jquery": "2.1.*"
+  },
+  "bugs": {
+    "url": "https://github.com/matcobat/sf-sticky-header/issues"
+  },
+  "homepage": "https://github.com/matcobat/sf-sticky-header",
+  "author": "Soletanche Freyssinet",
+  "contributors": [
+    { "name": "Matthieu COBAT", "email": "matthieu.cobat@sf-group.com" }
+  ],
+  "license": "MIT"
+}

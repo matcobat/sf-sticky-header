@@ -1,0 +1,16 @@
+{
+	"name": "sf-sticky-header",
+	"version": "1.0.0",
+	"main": [
+		"src/sf-sticky-header.js"
+	],
+	"dependencies": {
+		"angular": "~1.6.0",
+		"jquery": ">=1.7.0"
+	},
+	"ignore": [
+		"demo",
+		"LICENSE",
+		"README.md"
+	]
+}
